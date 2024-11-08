@@ -1,5 +1,3 @@
-data description in "CAPSTONE/CliCK/scripts/"
-
 ## Scripts
 
 - change_korea_data_to_climax.py: 인자로 입력받은 파일 하나의 형태를 climax format으로 변경
